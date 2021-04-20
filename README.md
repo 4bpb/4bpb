@@ -1,5 +1,7 @@
 # 4bpb
- ## Trying to learn new skills
+Trying to learn new skills
 
 
- - https://bein.gg
+Contact: bpb@bein.gg
+
+https://bein.gg
