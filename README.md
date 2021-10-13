@@ -1,6 +1,9 @@
-# 4bpb
-Trying to learn new skills
+# Bein
+Creating
 
+## Contacts
+ * blake@bein.gg
+ * blake#5153
 
-Contact: blake@bein.gg
-https://bein.gg
+### Other
+https://bein.gg/
